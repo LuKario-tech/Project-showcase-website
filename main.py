@@ -16,3 +16,9 @@ with col2:
                  This site showcases my projects as I continue to grow and explore the field of data."""
     
     st.info(content)
+
+content2 = """
+Below you can find some apps that I have built in python. Feel free to contact me.
+"""
+
+st.write(content2)
